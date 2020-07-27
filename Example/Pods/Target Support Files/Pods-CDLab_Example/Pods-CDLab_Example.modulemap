@@ -1,0 +1,6 @@
+framework module Pods_CDLab_Example {
+  umbrella header "Pods-CDLab_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

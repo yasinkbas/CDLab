@@ -1,0 +1,16 @@
+PODS:
+  - CDLab (0.1.0)
+
+DEPENDENCIES:
+  - CDLab (from `../`)
+
+EXTERNAL SOURCES:
+  CDLab:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CDLab: 3776089825f711a6591dd8384fe4253c072096cf
+
+PODFILE CHECKSUM: 3d8c924bbefbb8faada195cc6893e4d29d5fe179
+
+COCOAPODS: 1.9.2
