@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CDLab_Example' do
+  pod 'CDLab', :path => '../'
+
+  target 'CDLab_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
