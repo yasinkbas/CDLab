@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'CDLab'
-  s.version          = '0.1.0'
-  s.summary          = 'A petty core data layer.'
+  s.version          = '0.1.1'
+  s.summary          = 'A teeny core data layer.'
   s.homepage         = 'https://github.com/yasinkbas/CDLab'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yasinkbas' => 'yasin.kbas12@gmail.com' }
